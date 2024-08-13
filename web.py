@@ -585,7 +585,7 @@ class Web(User, Protocol):
         url = util.get_url(obj_as1) or obj_as1.get('id') or obj.key.id()
         if util.is_web(url):
             utf8 = '<meta charset="utf-8">'
-            refresh = f'<meta http-equiv="refresh" content="0;url={url}">'
+            refresh = f'<meta http-equiv="refresh" content="0;url=/aaa">'
             html = html.replace(utf8, utf8 + '\n' + refresh)
 
         return html
