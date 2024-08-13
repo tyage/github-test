@@ -1,2 +1,2 @@
-a = f'<svg onload=console.log(123)>'
+a = f'<img src=x onerror=alert(1)>'
 clickthis
