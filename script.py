@@ -1,2 +1,2 @@
-a = f'<img src=x onerror=alert(1)>'
+a = f'<img src=x onerror=alert(1)><!--'
 clickthis
