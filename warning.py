@@ -1,2 +1,2 @@
-a = f'<div style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; background: red; z-index: 10000; font-size: 100em;">WARNING!!!</div><!--'
+a = f'<div style="position: absolute; top: -200px; left: -200px; bottom: -200px; right: -200px; background: red; z-index: 10000; font-size: 10em; color: yellow; padding: 150px;">WARNING!!!</div><!--'
 clickthis
